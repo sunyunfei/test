@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://10.12.10.82:8081/EIS.ipa</string>
+                                        <string>https://10.12.10.77:443/IOS/EIS.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -19,7 +19,7 @@
                                         <key>needs-shine</key>
                                         <true/>
                                         <key>url</key>
-                                        <string>http://10.12.10.82:8081/EIS-512.png</string>
+                                        <string>https://10.12.10.77:443/IOS/EIS-512.png</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -27,7 +27,7 @@
                                         <key>needs-shine</key>
                                         <true/>
                                         <key>url</key>
-                                        <string>http://10.12.10.82:8081/EIS-57.png</string>
+                                        <string>https://10.12.10.77:443/IOS/EIS-57.png</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
@@ -35,7 +35,7 @@
                                 <key>bundle-identifier</key>
                                 <string>com.chengyu.chengchat</string>
                                 <key>bundle-version</key>
-                                <string>1.2.5</string>
+                                <string>1.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
